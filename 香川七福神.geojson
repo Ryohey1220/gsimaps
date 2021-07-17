@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "滝宮天満宮",
+        "description": "福禄寿",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.919113,
+          34.249818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "讃岐国分寺",
+        "description": "弁財天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.944211,
+          34.302612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "香西寺",
+        "description": "毘沙門天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.995098,
+          34.346935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "田村神社",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.027324,
+          34.286533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "法然寺",
+        "description": "大黒天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.04616,
+          34.273626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "與田寺",
+        "description": "寿老人",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.320196,
+          34.24141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "白鳥神社",
+        "description": "恵比須神\n",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.363716,
+          34.246007
+        ]
+      }
+    }
+  ]
+}
